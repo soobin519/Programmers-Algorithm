@@ -17,4 +17,4 @@ def solution(n):
 
     answer = int(tmp, 3)
     return answer
-#int(문자, n진법) 을 사용하면 10진법에서 n진법으로 변환할 수 있다.
+#int(문자, n진법) 을 사용하면 n진법에서 10진법으로 변환할 수 있다.
